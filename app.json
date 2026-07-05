@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "DataShare",
+    "slug": "datashare-mobile",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png"
+      }
+    }
+  }
+}
